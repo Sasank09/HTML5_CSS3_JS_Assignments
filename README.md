@@ -1,6 +1,6 @@
 # HTML5_CSS3_JS_Assignments
 Peer Graded Assignments of Coursera Course - [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
-
+### Taught by:**[Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin)**, Adjunct Professor,
 #### About this Course -
 ```
 Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones.
