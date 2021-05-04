@@ -1,5 +1,5 @@
 # HTML5_CSS3_JS_Assignments
-Peer Graded Assignments of Coursera Course
+Peer Graded Assignments of Coursera Course - [HTML, CSS and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
 
 ## Solution for **[Week 2 Module Peer Graded Assignment](https://sasank09.github.io/HTML5_CSS3_JS_Assignments/Module2/index.html)**
 
